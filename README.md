@@ -42,7 +42,7 @@ To use this script on macOS, we need to install [bash](https://www.gnu.org/softw
 
 > Will you support bash 3?
 
-**No**. Bash 3 is now 9 years outdated (at time of writing). There is no conceivable reason why anybody would or should still be using bash 3. Upgrade to the latest version of bash.
+**No**. Bash 3 is now 10 years outdated (at time of writing). There is no conceivable reason why anybody would or should still be using bash 3. Upgrade to the latest version of bash.
 
 ## License
 
